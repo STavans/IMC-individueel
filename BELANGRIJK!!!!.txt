@@ -1,2 +1,4 @@
 Om de code te runnen moet in menuconfig in Serial Flasher config de flash size naar 4 MB gezet worden.
 En moet in Partition Table de custom partition table: partitions_table.csv gebruikt worden.
+
+GitHub link: https://github.com/STavans/IMC-individueel
